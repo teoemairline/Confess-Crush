@@ -11,10 +11,10 @@ const CONFIG = {
     btnYes: 'Thích anh Tèo lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh Tèo này thế <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnReply: 'Gửi cho anh này <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu! Ok chưa',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, Anh qua bên nhà đón em đi chơi nha.',
-    btnAccept: 'Okiiiii luôn <3',
+    messDesc: 'Tối nay 7h, Anh qua nhà đón em đi chơi nha.',
+    btnAccept: 'Okê ê ê ê luôn <3',
     messLink: 'https://www.youtube.com/watch?v=3MKq8tfLiMY' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
